@@ -25,3 +25,21 @@
 在个人理念上，我是一名**唯物主义者、实用主义者**，重视客观事实与实践检验，关注方法的可行性及实际效果。
 
 **技能与工具：** Python · MATLAB · GNU Radio · Excel 数据分析 · 项目协调 · 中英文沟通
+
+## About Me · English
+
+I am **Louis Liu (刘益帆)**, currently pursuing an **MSc in Communications and Signal Processing at the University of Manchester**. My academic background also includes Electrical Engineering and Electronics (Communications) at the University of Liverpool and Telecommunications Engineering at Xi’an Jiaotong-Liverpool University.
+
+I have completed internships at **Tencent, LONGi Green Energy, and an automotive components company**, working in project management, technical sales support, and engineering coordination. These roles gave me experience in cross-functional communication, understanding customer requirements, tracking project progress, and analysing data.
+
+During university, I served as **President of the Basketball Club at Xi’an Jiaotong-Liverpool University**. I planned and organised multiple large-scale events from start to finish, coordinating preparations, external sponsorships, and on-site delivery. This strengthened my experience in team organisation, resource coordination, and event management.
+
+My technical research focuses on deep learning for **LoRa radio frequency fingerprinting and IoT device authentication**. I use Python and GNU Radio for signal acquisition, data processing, and model development, and compare CNN and Transformer models for device identification.
+
+Beyond engineering and project work, I have **several years of cryptocurrency trading experience** and have worked as a **portfolio manager for investments in virtual game items**. I also follow and study macro-level political and economic developments.
+
+I aim to **combine my engineering background with project management**, drawing on technical principles, practical requirements, and execution to turn ideas into working solutions.
+
+My outlook is rooted in **philosophical materialism and pragmatism**. I value objective evidence and practical testing, with an emphasis on feasibility and real-world results.
+
+**Skills & Tools:** Python · MATLAB · GNU Radio · Excel Data Analysis · Project Coordination · English and Mandarin Communication
